@@ -78,7 +78,7 @@ const RecipiesCards = () => {
       image:
         "https://media.istockphoto.com/id/1357625017/photo/shot-of-a-young-family-enjoying-a-meal-together.jpg?s=612x612&w=0&k=20&c=ytrLA78CJBLjVqtnn9P6nxFm0Rmx7K-AR7bGHQoJpvU=",
       path: "/Dinner",
-    },
+    }
   ];
 
   return (
