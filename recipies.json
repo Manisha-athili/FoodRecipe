@@ -1,0 +1,1351 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Bolognese",
+      "description": "Classic Italian pasta dish with rich meat sauce.",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Tomato sauce",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Basil"
+      ],
+      "steps": [
+        "Boil spaghetti",
+        "Cook beef with onion and garlic",
+        "Add tomato sauce",
+        "Simmer and serve"
+      ],
+      "category": "Italian",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "imageUrl": "https://th.bing.com/th/id/OSK.f52d6193a5b4f9b239ac0c9c00116adb?w=176&h=246&rs=2&qlt=80&o=6&cdv=1&dpr=1.6&pid=16.1"
+    },
+    {
+      "id": "2",
+      "title": "Chicken Curry",
+      "description": "Spicy Indian chicken curry with aromatic spices.",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Tomatoes",
+        "Garlic",
+        "Ginger",
+        "Curry powder",
+        "Yogurt"
+      ],
+      "steps": [
+        "Marinate chicken",
+        "Cook onion, garlic, ginger",
+        "Add tomatoes and spices",
+        "Add chicken and simmer"
+      ],
+      "category": "Indian",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 4,
+      "imageUrl": "https://th.bing.com/th/id/OSK.TxvN4GytYt9UIgK9oPDY_6vpRkYF_1dYokObPPkn0D4?w=224&h=200&c=12&rs=1&o=6&dpr=1.6&pid=SANGAM"
+    },
+    {
+      "id": "3",
+      "title": "Vegetable Stir Fry",
+      "description": "Quick and healthy vegetable stir fry with soy sauce.",
+      "ingredients": [
+        "Broccoli",
+        "Carrot",
+        "Bell pepper",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame oil"
+      ],
+      "steps": [
+        "Chop vegetables",
+        "Stir fry garlic and ginger",
+        "Add vegetables and soy sauce",
+        "Cook until tender"
+      ],
+      "category": "Asian",
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "imageUrl": "https://th.bing.com/th/id/OIP.ZpeVY9uTkAl9uNZcuViQRAHaLH?w=267&h=200&c=8&rs=1&o=6&dpr=1.6&pid=23.1"
+    },
+    {
+      "id": "4",
+      "title": "Pancakes",
+      "description": "Fluffy pancakes perfect for breakfast.",
+      "ingredients": [
+        "Flour",
+        "Milk",
+        "Eggs",
+        "Baking powder",
+        "Sugar",
+        "Salt",
+        "Butter"
+      ],
+      "steps": [
+        "Mix dry ingredients",
+        "Whisk wet ingredients",
+        "Combine and cook on griddle",
+        "Serve with syrup"
+      ],
+      "category": "Breakfast",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "imageUrl": "https://media.istockphoto.com/id/1299926424/photo/close-up-of-freshly-backed-home-made-apple-pie-selective-focus.jpg?s=612x612&w=0&k=20&c=VEohpc0-JX7h6VCL3bS-l1aofr2M3BlTeYmNKFRjbxQ="
+    },
+    {
+      "id": "5",
+      "title": " Tacos",
+      "description": "Crispy tacos filled with seasoned chicken and toppings.",
+      "ingredients": [
+        "Taco shells",
+        "Ground beef",
+        "Onion",
+        "Lettuce",
+        "Cheese",
+        "Tomato",
+        "Taco seasoning"
+      ],
+      "steps": [
+        "Cook beef with onion and seasoning",
+        "Fill shells with meat and toppings",
+        "Serve"
+      ],
+      "category": "Mexican",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 3,
+      "imageUrl": "https://www.bing.com/th/id/OIP.x30IET6aqJqkHKyHuwpAlQHaE8?w=236&h=185&c=8&rs=1&qlt=90&o=6&dpr=1.6&pid=3.1&rm=2"
+    },
+    {
+      "id": "6",
+      "title": "Grilled Cheese Sandwich",
+      "description": "Delicious Grilled Cheese Sandwich made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Indian",
+      "prepTime": 6,
+      "cookTime": 23,
+      "servings": 3,
+      "imageUrl": "https://th.bing.com/th/id/OSK.qv4PS0ZP234qCdp4VNseYmwc3oXMTmsV6MiTcDh4G4E?w=312&h=200&c=12&rs=1&o=6&dpr=1.6&pid=SANGAM"
+    },
+    {
+      "id": "7",
+      "title": "soup",
+      "description": "Delicious Tomato Soup made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Soup",
+      "prepTime": 17,
+      "cookTime": 38,
+      "servings": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1613844237701-8f3664fc2eff?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8",
+      "title": "Banana Smoothie",
+      "description": "Delicious Banana Smoothie made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Breakfast",
+      "prepTime": 6,
+      "cookTime": 37,
+      "servings": 5,
+      "imageUrl": "https://media.istockphoto.com/id/926930252/photo/banana-smoothie-and-fresh-banana-on-wooden-background.jpg?s=612x612&w=0&k=20&c=Y0MFW7Gro8pjYUez4pt9BVnJQUpv8TbZHTz4jVFrG4k="
+    },
+    {
+      "id": "9",
+      "title": "Fried Rice",
+      "description": "Delicious Fried Rice made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Salad",
+      "prepTime": 12,
+      "cookTime": 16,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/10/01/14/26/fried-rice-967081_1280.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Garlic Bread",
+      "description": "Delicious Garlic Bread made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Italian",
+      "prepTime": 13,
+      "cookTime": 34,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/11/28/17/48/garlic-bread-5785406_1280.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Fish Tacos",
+      "description": "Delicious Fish Tacos made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Indian",
+      "prepTime": 19,
+      "cookTime": 33,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/11/28/20/05/taco-7623097_1280.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Lemon Chicken",
+      "description": "Delicious Lemon Chicken made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Lunch",
+      "prepTime": 16,
+      "cookTime": 22,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/11/26/14/16/lemon-1063959_1280.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Mushroom Risotto",
+      "description": "Delicious Mushroom Risotto made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Lunch",
+      "prepTime": 19,
+      "cookTime": 20,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/01/06/13/01/risotto-5894347_1280.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Chocolate Cake",
+      "description": "Delicious Chocolate Cake made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Dessert",
+      "prepTime": 12,
+      "cookTime": 26,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Veggie Burger",
+      "description": "Delicious Veggie Burger made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Snack",
+      "prepTime": 5,
+      "cookTime": 25,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/08/29/17/44/burger-7419420_1280.jpg"
+    },
+    {
+      "id": "16",
+      "title": "French Toast",
+      "description": "Delicious French Toast made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Indian",
+      "prepTime": 20,
+      "cookTime": 18,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/11/21/08/46/french-toast-5763429_1280.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Beef Stroganoff",
+      "description": "Delicious Beef Stroganoff made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Snack",
+      "prepTime": 11,
+      "cookTime": 18,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/04/04/15/08/barbecue-5002642_1280.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Avocado Toast",
+      "description": "Delicious Avocado Toast made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Breakfast",
+      "prepTime": 17,
+      "cookTime": 35,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/09/08/19/44/toast-6607782_1280.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Shrimp Pasta",
+      "description": "Delicious Shrimp Pasta made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Salad",
+      "prepTime": 17,
+      "cookTime": 10,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/03/04/12/09/pasta-6067791_1280.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Egg Salad",
+      "description": "Delicious Egg Salad made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Salad",
+      "prepTime": 19,
+      "cookTime": 10,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNhbGFkfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "21",
+      "title": "Stuffed Bell Peppers",
+      "description": "Delicious Stuffed Bell Peppers made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Snack",
+      "prepTime": 7,
+      "cookTime": 25,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/02/26/18/35/food-1224501_1280.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Pumpkin Soup",
+      "description": "Delicious Pumpkin Soup made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Soup",
+      "prepTime": 13,
+      "cookTime": 10,
+      "servings": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1608930532174-18ff53f01438?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "23",
+      "title": "Blueberry Muffins",
+      "description": "Delicious Blueberry Muffins made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Snack",
+      "prepTime": 6,
+      "cookTime": 35,
+      "servings": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/12/08/08/37/muffins-3862993_1280.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Chicken Alfredo",
+      "description": "Delicious Chicken Alfredo made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Italian",
+      "prepTime": 11,
+      "cookTime": 33,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/22/12/16/chicken-drumsticks-5205207_1280.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Greek Salad",
+      "description": "Delicious Greek Salad made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Snack",
+      "prepTime": 12,
+      "cookTime": 39,
+      "servings": 3,
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1673590981774-d9f534e0c617?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FsYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "26",
+      "title": "Tofu Stir Fry",
+      "description": "Delicious Tofu Stir Fry made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Lunch",
+      "prepTime": 5,
+      "cookTime": 36,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2011/05/25/14/49/fry-up-7627_1280.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Mac and Cheese",
+      "description": "Delicious Mac and Cheese made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Salad",
+      "prepTime": 9,
+      "cookTime": 26,
+      "servings": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FsYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "28",
+      "title": "Chili Con Carne",
+      "description": "Delicious Chili Con Carne made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Soup",
+      "prepTime": 12,
+      "cookTime": 28,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/07/11/12/26/chili-1509594_1280.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Sushi Rolls",
+      "description": "Delicious Sushi Rolls made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Dinner",
+      "prepTime": 20,
+      "cookTime": 24,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/10/30/18/35/sushi-5699481_1280.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Falafel Wrap",
+      "description": "Delicious Falafel Wrap made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Dinner",
+      "prepTime": 5,
+      "cookTime": 29,
+      "servings": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/09/16/20/52/falafel-6631047_1280.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Ramen Noodles",
+      "description": "Delicious Ramen Noodles made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Lunch",
+      "prepTime": 17,
+      "cookTime": 28,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/09/17/12/25/ramen-5579023_1280.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Spinach Lasagna",
+      "description": "Delicious Spinach Lasagna made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Italian",
+      "prepTime": 15,
+      "cookTime": 36,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/12/18/25/spinach-1665396_1280.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Coconut Curry",
+      "description": "Delicious Coconut Curry made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Lunch",
+      "prepTime": 8,
+      "cookTime": 19,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/06/07/20/52/curry-7249243_1280.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Bruschetta",
+      "description": "Delicious Bruschetta made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Breakfast",
+      "prepTime": 15,
+      "cookTime": 29,
+      "servings": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/10/30/18/36/bruschetta-5699490_1280.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Quiche Lorraine",
+      "description": "Delicious Quiche Lorraine made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Snack",
+      "prepTime": 17,
+      "cookTime": 14,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/03/19/09/quiche-2468682_1280.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Zucchini Noodles",
+      "description": "Delicious Zucchini Noodles made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Dinner",
+      "prepTime": 6,
+      "cookTime": 11,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/06/04/04/14/noodles-7241213_1280.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Chicken Tikka Masala",
+      "description": "Delicious Chicken Tikka Masala made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Snack",
+      "prepTime": 13,
+      "cookTime": 14,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/03/18/07/19/dish-4943028_1280.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Pesto Pasta",
+      "description": "Delicious Pesto Pasta made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Dinner",
+      "prepTime": 7,
+      "cookTime": 40,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/11/08/07/38/pasta-1033216_1280.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Eggplant Parmesan",
+      "description": "Delicious Eggplant Parmesan made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Breakfast",
+      "prepTime": 15,
+      "cookTime": 38,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/02/04/12/47/food-5981232_1280.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Meatloaf",
+      "description": "Delicious Meatloaf made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Soup",
+      "prepTime": 9,
+      "cookTime": 31,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/01/17/10/18/meat-loaf-4772659_1280.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Baked Salmon",
+      "description": "Delicious Baked Salmon made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Italian",
+      "prepTime": 11,
+      "cookTime": 36,
+      "servings": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/08/09/07/27/salmon-7374357_1280.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Gnocchi with Tomato Sauce",
+      "description": "Delicious Gnocchi with Tomato Sauce made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Dinner",
+      "prepTime": 13,
+      "cookTime": 14,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/10/09/20/02/tomato-soup-482403_1280.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Caprese Salad",
+      "description": "Delicious Caprese Salad made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Lunch",
+      "prepTime": 11,
+      "cookTime": 15,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/12/28/20/12/salad-6900127_1280.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Lamb Kebabs",
+      "description": "Delicious Lamb Kebabs made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Lunch",
+      "prepTime": 17,
+      "cookTime": 18,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/10/27/12/10/food-3776407_1280.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Chocolate Mousse",
+      "description": "Delicious Chocolate Mousse made with simple ingredients.",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Butter"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 12,
+      "cookTime": 40,
+      "servings": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/01/12/16/31/nougat-3078581_1280.jpg"
+    },
+    {
+      "id": "46",
+      "title": "Pad Thai",
+      "description": "Delicious Pad Thai made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Breakfast",
+      "prepTime": 9,
+      "cookTime": 23,
+      "servings": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/01/17/09/20/pad-thai-246830_1280.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Chicken Noodle Soup",
+      "description": "Delicious Chicken Noodle Soup made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Soup",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1652088079703-38f4a8d6b981?q=80&w=1990&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "48",
+      "title": "Sweet Potato Fries",
+      "description": "Delicious Sweet Potato Fries made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Snack",
+      "prepTime": 10,
+      "cookTime": 37,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/06/23/28/yam-1804451_1280.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Peach Cobbler",
+      "description": "Delicious Peach Cobbler made with simple ingredients.",
+      "ingredients": [
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "steps": [
+        "Prep ingredients",
+        "Cook as needed",
+        "Garnish and serve"
+      ],
+      "category": "Breakfast",
+      "prepTime": 20,
+      "cookTime": 39,
+      "servings": 2,
+      "imageUrl": "https://media.istockphoto.com/id/1273564094/photo/berry-cobbler.jpg?s=612x612&w=0&k=20&c=rLwnk2z6esw5hgVvMoS80VAAbT0Fr0yqLLLeRgFyEvc="
+    },
+    {
+      "id": "50",
+      "title": "Green Smoothie",
+      "description": "Delicious Green Smoothie made with simple ingredients.",
+      "ingredients": [
+        "Tomato",
+        "Onion",
+        "Garlic"
+      ],
+      "steps": [
+        "Mix all",
+        "Heat for 10 mins",
+        "Serve hot"
+      ],
+      "category": "Dinner",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/11/27/19/56/green-smoothie-1066168_1280.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Caesar Salad",
+      "description": "Fresh romaine lettuce with Caesar dressing and croutons.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing"
+      ],
+      "steps": [
+        "Chop lettuce",
+        "Add dressing",
+        "Top with croutons and cheese"
+      ],
+      "category": "Salad",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1547496502-affa22d38842?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2FsYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "52",
+      "title": "Margarita Pizza",
+      "description": "Simple pizza with fresh mozzarella, tomato, and basil.",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella",
+        "Basil leaves",
+        "Olive oil"
+      ],
+      "steps": [
+        "Roll dough",
+        "Spread sauce",
+        "Add cheese and basil",
+        "Bake in oven"
+      ],
+      "category": "Italian",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/17/04/22/pizza-5179939_1280.jpg"
+    },
+    {
+      "id": "53",
+      "title": "Apple Pie",
+      "description": "Classic dessert with spiced apples in a flaky crust.",
+      "ingredients": [
+        "Apples",
+        "Sugar",
+        "Cinnamon",
+        "Nutmeg",
+        "Flour",
+        "Butter",
+        "Pie crust"
+      ],
+      "steps": [
+        "Prepare apple filling",
+        "Roll out crust",
+        "Add filling and top crust",
+        "Bake until golden"
+      ],
+      "category": "Dessert",
+      "prepTime": 30,
+      "cookTime": 45,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/11/14/21/10/dessert-6795723_1280.jpg"
+    },
+    {
+      "id": "54",
+      "title": "Chocolate Mousse",
+      "description": "A rich and creamy chocolate mousse, perfect for any dessert lover.",
+      "ingredients": [
+        "Dark chocolate",
+        "Heavy cream",
+        "Eggs",
+        "Sugar",
+        "Vanilla extract"
+      ],
+      "steps": [
+        "Melt the chocolate",
+        "Whip the cream",
+        "Fold cream into chocolate",
+        "Chill",
+        "Serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/12/14/19/05/chocolate-3019585_1280.jpg"
+    },
+    {
+      "id": "55",
+      "title": "Strawberry Cheesecake",
+      "description": "Classic New York-style cheesecake with fresh strawberry topping.",
+      "ingredients": [
+        "Cream cheese",
+        "Sugar",
+        "Eggs",
+        "Graham crackers",
+        "Strawberries"
+      ],
+      "steps": [
+        "Make crust",
+        "Prepare filling",
+        "Bake",
+        "Cool and top with strawberries",
+        "Serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 8,
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/10/10/09/17/cheesecake-8305890_1280.jpg"
+    },
+    {
+      "id": "56",
+      "title": "Tiramisu",
+      "description": "An Italian dessert made with espresso-soaked ladyfingers and mascarpone cream.",
+      "ingredients": [
+        "Mascarpone",
+        "Espresso",
+        "Ladyfingers",
+        "Cocoa powder",
+        "Sugar",
+        "Eggs"
+      ],
+      "steps": [
+        "Dip ladyfingers in espresso",
+        "Layer with mascarpone",
+        "Repeat",
+        "Chill overnight",
+        "Dust with cocoa"
+      ],
+      "category": "Dessert",
+      "prepTime": 25,
+      "cookTime": 0,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/10/26/14/31/cake-8342822_1280.jpg"
+    },
+    {
+      "id": "57",
+      "title": "Banana Split",
+      "description": "A fun and colorful dessert with banana, ice cream, and toppings.",
+      "ingredients": [
+        "Bananas",
+        "Vanilla ice cream",
+        "Chocolate syrup",
+        "Whipped cream",
+        "Cherries"
+      ],
+      "steps": [
+        "Slice bananas",
+        "Add ice cream scoops",
+        "Top with syrup, cream, and cherries",
+        "Serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/31/15/49/banana-split-2701128_1280.jpg"
+    },
+    {
+      "id": "58",
+      "title": "Crème Brûlée",
+      "description": "A creamy vanilla custard topped with caramelized sugar crust.",
+      "ingredients": [
+        "Cream",
+        "Egg yolks",
+        "Vanilla",
+        "Sugar"
+      ],
+      "steps": [
+        "Mix ingredients",
+        "Bake in water bath",
+        "Chill",
+        "Torch sugar topping",
+        "Serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 15,
+      "cookTime": 45,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/01/30/16/18/creme-brulee-5964410_1280.jpg"
+    },
+    {
+      "id": "59",
+      "title": "Apple Pie",
+      "description": "Classic American dessert with spiced apples and flaky crust.",
+      "ingredients": [
+        "Apples",
+        "Cinnamon",
+        "Sugar",
+        "Pie crust",
+        "Butter"
+      ],
+      "steps": [
+        "Prepare filling",
+        "Fill crust",
+        "Cover and bake",
+        "Cool",
+        "Serve with ice cream"
+      ],
+      "category": "Dessert",
+      "prepTime": 30,
+      "cookTime": 50,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/02/03/12/11/apple-pie-5977718_1280.jpg"
+    },
+    {
+      "id": "60",
+      "title": "Molten Lava Cake",
+      "description": "Warm chocolate cake with a gooey molten center.",
+      "ingredients": [
+        "Chocolate",
+        "Butter",
+        "Sugar",
+        "Eggs",
+        "Flour"
+      ],
+      "steps": [
+        "Melt chocolate and butter",
+        "Mix in sugar and eggs",
+        "Bake briefly",
+        "Serve warm"
+      ],
+      "category": "Dessert",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2013/02/19/16/00/france-confectionery-83373_1280.jpg"
+    },
+    {
+      "id": "61",
+      "title": "Lemon Tart",
+      "description": "Tangy lemon custard in a buttery shortcrust pastry.",
+      "ingredients": [
+        "Lemons",
+        "Eggs",
+        "Sugar",
+        "Butter",
+        "Flour"
+      ],
+      "steps": [
+        "Make tart crust",
+        "Prepare lemon filling",
+        "Bake",
+        "Cool",
+        "Dust with sugar"
+      ],
+      "category": "Dessert",
+      "prepTime": 25,
+      "cookTime": 35,
+      "servings": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/22/17/55/egg-tart-2669935_1280.jpg"
+    },
+    {
+      "id": "62",
+      "title": "Panna Cotta",
+      "description": "Silky Italian cream dessert, lightly sweetened and set with gelatin.",
+      "ingredients": [
+        "Cream",
+        "Sugar",
+        "Vanilla",
+        "Gelatin"
+      ],
+      "steps": [
+        "Heat cream and sugar",
+        "Add gelatin",
+        "Pour into molds",
+        "Chill",
+        "Unmold and serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 10,
+      "cookTime": 5,
+      "servings": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/08/06/15/38/panna-cotta-4388608_1280.jpg"
+    },
+    {
+      "id": "63",
+      "title": "Baklava",
+      "description": "A rich pastry made of layers of filo filled with nuts and sweetened with honey.",
+      "ingredients": [
+        "Phyllo dough",
+        "Walnuts",
+        "Butter",
+        "Sugar",
+        "Honey"
+      ],
+      "steps": [
+        "Layer phyllo and nuts",
+        "Bake",
+        "Pour honey syrup",
+        "Cool completely",
+        "Serve"
+      ],
+      "category": "Dessert",
+      "prepTime": 40,
+      "cookTime": 50,
+      "servings": 12,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/01/24/22/16/cake-5946736_1280.jpg"
+    },
+    {
+      "id": 63,
+      "title": "Chicken soup",
+      "description": "tasty and healthy option",
+      "ingredients": [
+        "salt"
+      ],
+      "steps": [
+        "heat the pan",
+        "set the given ingredients"
+      ],
+      "category": "Soup",
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 2,
+      "imageUrl": "http://res.cloudinary.com/du5vnvt5x/image/upload/v1747507145/c6emggqqmggrtrqtj3nf.png"
+    }
+  ]
+}
