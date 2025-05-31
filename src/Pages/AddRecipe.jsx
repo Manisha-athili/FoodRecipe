@@ -12,7 +12,7 @@ import {
 import { MinusCircleOutlined, PlusOutlined } from '@ant-design/icons';
 import { fetchRecipies } from '../services/Api';
 import {  useEffect, useState } from 'react';
-import recipiesURL from '../services/constants'
+import {recipiesURL} from '../services/constants'
 
 
 
