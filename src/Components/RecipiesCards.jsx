@@ -2,6 +2,7 @@ import { Card, Button } from "antd";
 import { useEffect } from "react";
 import { useNavigate ,Link} from "react-router-dom";
 import 'animate.css'
+import {recipiesURL} from '../services/constants'
 
 const { Meta } = Card;
 
@@ -10,7 +11,7 @@ const RecipiesCards = () => {
 
   const getData = async () => {
     try {
-      const res = await fetch("http://localhost:3000/recipes");
+      const res = await fetch(recipiesURL);
       const jsondata = await res.json();
       console.log(jsondata);
     } catch (e) {
