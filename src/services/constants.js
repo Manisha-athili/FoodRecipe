@@ -1,2 +1,2 @@
-export const recipiesURL = 'http://localhost:3000/recipes'
+export const recipiesURL = 'https://foodrecipe-json-server.onrender.com/recipes'
 
