@@ -12,6 +12,7 @@ import {
 import { MinusCircleOutlined, PlusOutlined } from '@ant-design/icons';
 import { fetchRecipies } from '../services/Api';
 import {  useEffect, useState } from 'react';
+import recipiesURL from '../services/constants'
 
 
 
@@ -62,7 +63,7 @@ const AddRecipe = () => {
       imageUrl: values.upload?.[0]?.response?.url || ''
     };
 
-    await fetch('http://localhost:3000/recipes', {
+    await fetch(recipiesURL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(recipeData),
